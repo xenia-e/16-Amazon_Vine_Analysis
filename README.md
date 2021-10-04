@@ -22,7 +22,7 @@ a dataset from the [Amazon Review datasets](https://s3.amazonaws.com/amazon-revi
 
 
 
-#Results
+# Results
 
 Using PySpark we performed analysis to determine if there is any bias towards reviews that were written as part of the Vine program. Performed calculations lead us to the following conclusions (see figure 1 and 2):
 
@@ -41,7 +41,7 @@ Using PySpark we performed analysis to determine if there is any bias towards re
 >Figure 2 - non-Vine reviews summary table
 
 
-#Summary
+# Summary
 
 As analysis shows, the percentage of positive reviews is the same for Vine and non-Vine users. So it is safe to assume that there is no positivity bias for the reviews in the Vine program for the current dataset. 
 
